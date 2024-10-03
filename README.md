@@ -1,4 +1,4 @@
-## BratBot
+## EinsteinAI
 
 EinsteinAI is an innovative project that creates a digital twin of Albert Einstein, leveraging GaiaNet's Node subdomain, a large language model to offer in-depth information and analysis on all aspects to fetch data from. By analyzing Einstein's works, thought patterns, and methodologies, the AI mirrors his approach to complex problems, providing insightful solutions and engaging interactions. Ideal for educational purposes, scientific exploration, and AI research, EinsteinAI allows users to experience how the mind of one of history’s greatest geniuses might think in today's world.
 [Click Here to access the node subdomains](https://www.gaianet.ai/gaia-domain-name)
