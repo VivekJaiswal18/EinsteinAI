@@ -5,7 +5,7 @@ import Link from "next/link";
 const Footer = () => {
   return (
     <div>
-      <div className="flex  gap-3 justify-center items-center mx-auto underline-offset-1 underline">
+      <div className="flex  gap-3 justify-center text-black items-center mx-auto underline-offset-1 underline">
         <div className="bg-green-400 animate-ping rounded-full w-3 h-3" ></div>  
         <Link href="https://afrifarms.openstatus.dev/">
         All System Operational 
